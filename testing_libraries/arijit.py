@@ -35,4 +35,3 @@ def get_arijit_top_tracks():
 
 arijit = get_arijit_top_tracks()
 print(arijit)   
-    
