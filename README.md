@@ -25,4 +25,3 @@ etc..
 3. [Medium (Lorelabaka)](https://medium.com/@lorelablaka/extract-data-using-spotify-api-889222835bf4)
 4. [Stackoverflow](https://stackoverflow.com/) 
 5. [Reqbin](https://reqbin.com/)
-6. 
